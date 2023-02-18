@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+}
+.week{
+    text-align: center;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 750px;
+}
+th,td{
+    height: 30px;
+}
